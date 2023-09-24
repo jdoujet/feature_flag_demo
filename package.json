@@ -1,17 +1,17 @@
 {
   "name": "feature_flag_demo",
+  "homepage": "https://github.com/jdoujet/feature_flag_demo",
+  "private": true,
   "version": "1.0.0",
   "description": "project to demonstrate the feature flag capabilities",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@kameleoon/javascript-sdk": "^1.7.3"
+    "build": "tsc"
   },
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@kameleoon/javascript-sdk": "^1.7.3"
   }
 }
