@@ -2,7 +2,7 @@
   "name": "feature_flag_demo",
   "version": "1.0.0",
   "description": "project to demonstrate the feature flag capabilities",
-  "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
