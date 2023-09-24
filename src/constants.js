@@ -1,4 +1,4 @@
-import { kameleoonUtils } from "../node_modules/@kameleoon/javascript-sdk";
+import { kameleoonUtils } from "../node_modules/@kameleoon/javascript-sdk/dist";
 
 // -- Constants values
 export const siteCode = "44r9jgmatl";
