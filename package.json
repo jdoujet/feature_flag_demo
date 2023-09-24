@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@kameleoon/javascript-sdk": "^1.7.3"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
   }
 }
